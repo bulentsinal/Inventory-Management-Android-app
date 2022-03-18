@@ -14,7 +14,7 @@
         android:layout_width="357dp"
         android:layout_height="147dp"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
+        android:layout_centerHorizontal="false"
         android:layout_marginTop="8dp"
         app:srcCompat="@drawable/inventory" />
 
